@@ -1,0 +1,63 @@
+about:
+  description: Customization of kubernetes YAML configurations
+  license: Apache-2.0
+  homepage: 
+  head: c44f66d
+  archived: false
+  latestVersion: kustomize/v5.8.1
+  collectedAt: 2026-08-31T05:21:01Z
+timeline:
+  created: 2018-05-11
+  lastCommit: 2026-08-31
+  lastRelease: 2026-02-09
+popularity:
+  star: 12149
+  watcher: 107
+  fork: 2415
+  release: 280
+  contributor: 814
+  pullRequest: 743
+  issue: 2521
+language:
+  Go: 3723330
+  Shell: 47005
+  Makefile: 27339
+  HTML: 11054
+  Dockerfile: 7568
+  PowerShell: 2159
+  Starlark: 355
+  SCSS: 96
+totalLine: 3818906
+recent:
+  last30d:
+    since: 2026-08-01
+    release: 0
+    mergedPR: 6
+    openPR: 10
+    closedIssue: 4
+    openIssue: 3
+    commit: 7
+  last90d:
+    since: 2026-06-02
+    release: 0
+    mergedPR: 19
+    openPR: 24
+    closedIssue: 8
+    openIssue: 6
+    commit: 23
+  last180d:
+    since: 2026-03-04
+    release: 0
+    mergedPR: 31
+    openPR: 38
+    closedIssue: 16
+    openIssue: 14
+    commit: 35
+  last360d:
+    since: 2025-09-05
+    release: 8
+    mergedPR: 59
+    openPR: 45
+    closedIssue: 43
+    openIssue: 28
+    commit: 74
