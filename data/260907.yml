@@ -5,15 +5,15 @@ about:
   head: 7a3bab8
   archived: false
   latestVersion: "kustomize/v5.8.1"
-  collectedAt: 2026-09-07T04:44:38Z
+  collectedAt: 2026-09-07T19:44:02Z
 timeline:
   created: 2018-05-11
   lastCommit: 2026-09-04
   lastRelease: 2026-02-09
 popularity:
-  star: 12153
+  star: 12156
   watcher: 108
-  fork: 2418
+  fork: 2417
   release: 280
   contributor: 815
   pullRequest: 3672
@@ -86,7 +86,7 @@ total:
   commit: 7152
 ---
 path: /home/runner/.x-repo/github.com/kubernetes-sigs/kustomize
-collectedAt: 2026-09-07T04:44:47Z
+collectedAt: 2026-09-07T19:44:10Z
 loc:
   Go:
     code: 139671
@@ -284,7 +284,7 @@ checks:
       - 'Info:   3 out of   3 goCommand dependencies pinned'
 ---
 eget:
-  collectedAt: 2026-09-07T04:44:47+00:00
+  collectedAt: 2026-09-07T19:44:10+00:00
   platform:
     darwin/arm64:
       name:  null
