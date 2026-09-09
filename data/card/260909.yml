@@ -7,7 +7,7 @@ about:
   latestVersion: "kustomize/v5.8.1"
   latestRelease: "kustomize/v5.8.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T04:50:45Z
+  collectedAt: 2026-09-09T19:17:01Z
 timeline:
   created: 2018-05-11
   lastCommit: 2026-09-04
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-02-09
   lastPrerelease: 
 popularity:
-  star: 12157
+  star: 12158
   watcher: 108
-  fork: 2418
+  fork: 2419
   release: 280
   contributor: 814
-  pullRequest: 3674
+  pullRequest: 3677
   issue: 2522
 language:
   Go: 3728380
@@ -37,7 +37,7 @@ recent:
     since: 2026-08-10
     release: 0
     mergedPR: 18
-    openPR: 10
+    openPR: 13
     closedIssue: 2
     openIssue: 3
     commit: 17
@@ -45,7 +45,7 @@ recent:
     since: 2026-07-11
     release: 0
     mergedPR: 24
-    openPR: 21
+    openPR: 24
     closedIssue: 5
     openIssue: 5
     commit: 26
@@ -53,7 +53,7 @@ recent:
     since: 2026-06-11
     release: 0
     mergedPR: 32
-    openPR: 26
+    openPR: 29
     closedIssue: 8
     openIssue: 7
     commit: 35
@@ -61,7 +61,7 @@ recent:
     since: 2026-03-13
     release: 0
     mergedPR: 42
-    openPR: 37
+    openPR: 40
     closedIssue: 15
     openIssue: 13
     commit: 46
@@ -69,7 +69,7 @@ recent:
     since: 2025-09-14
     release: 8
     mergedPR: 70
-    openPR: 47
+    openPR: 50
     closedIssue: 42
     openIssue: 29
     commit: 85
@@ -77,20 +77,20 @@ recent:
     since: 2024-09-19
     release: 25
     mergedPR: 134
-    openPR: 52
+    openPR: 55
     closedIssue: 121
     openIssue: 40
     commit: 284
 total:
   release: 280
   mergedPR: 2924
-  openPR: 52
+  openPR: 55
   closedIssue: 2385
   openIssue: 137
   commit: 7152
 ---
 path: /home/runner/.x-repo/github.com/kubernetes-sigs/kustomize
-collectedAt: 2026-09-09T04:50:56Z
+collectedAt: 2026-09-09T19:17:10Z
 loc:
   Go:
     code: 139671
