@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 818,
       "digest": "sha256:0a7ea42f4ef9e91cbb0ad7a81604db767b23bbd6bae8dc8f423f54fad4572ba6",
-      "download_count": 273471,
+      "download_count": 274196,
       "created_at": "2026-02-09T16:17:56Z",
       "updated_at": "2026-02-09T16:17:56Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/kustomize/releases/download/kustomize/v5.8.1/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 5252204,
       "digest": "sha256:ee7cf0c1e3592aa7bb66ba82b359933a95e7f2e0b36e5f53ed0a4535b017f2f8",
-      "download_count": 4101,
+      "download_count": 4103,
       "created_at": "2026-02-09T16:17:56Z",
       "updated_at": "2026-02-09T16:17:57Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/kustomize/releases/download/kustomize/v5.8.1/kustomize_v5.8.1_darwin_amd64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 4918398,
       "digest": "sha256:8886f8a78474e608cc81234f729fda188a9767da23e28925802f00ece2bab288",
-      "download_count": 33297,
+      "download_count": 33345,
       "created_at": "2026-02-09T16:17:56Z",
       "updated_at": "2026-02-09T16:17:57Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/kustomize/releases/download/kustomize/v5.8.1/kustomize_v5.8.1_darwin_arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 5171673,
       "digest": "sha256:029a7f0f4e1932c52a0476cf02a0fd855c0bb85694b82c338fc648dcb53a819d",
-      "download_count": 6898390,
+      "download_count": 6902677,
       "created_at": "2026-02-09T16:17:56Z",
       "updated_at": "2026-02-09T16:17:57Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/kustomize/releases/download/kustomize/v5.8.1/kustomize_v5.8.1_linux_amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 4736536,
       "digest": "sha256:0953ea3e476f66d6ddfcd911d750f5167b9365aa9491b2326398e289fef2c142",
-      "download_count": 330317,
+      "download_count": 330530,
       "created_at": "2026-02-09T16:17:56Z",
       "updated_at": "2026-02-09T16:17:57Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/kustomize/releases/download/kustomize/v5.8.1/kustomize_v5.8.1_linux_arm64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 5314337,
       "digest": "sha256:8ec7f5e815e526d4622c06df0a7793d8cfb6eb1c74f816b46166097fef8b26c6",
-      "download_count": 17132,
+      "download_count": 17142,
       "created_at": "2026-02-09T16:17:57Z",
       "updated_at": "2026-02-09T16:17:58Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/kustomize/releases/download/kustomize/v5.8.1/kustomize_v5.8.1_windows_amd64.zip"
