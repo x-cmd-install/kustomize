@@ -7,7 +7,7 @@ about:
   latestVersion: "kustomize/v5.8.1"
   latestRelease: "kustomize/v5.8.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T04:55:20Z
+  collectedAt: 2026-09-10T16:34:58Z
 timeline:
   created: 2018-05-11
   lastCommit: 2026-09-09
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-02-09
   lastPrerelease: 
 popularity:
-  star: 12158
+  star: 12161
   watcher: 108
-  fork: 2419
+  fork: 2418
   release: 280
   contributor: 814
   pullRequest: 3677
@@ -90,7 +90,7 @@ total:
   commit: 7156
 ---
 path: /home/runner/.x-repo/github.com/kubernetes-sigs/kustomize
-collectedAt: 2026-09-10T04:55:30Z
+collectedAt: 2026-09-10T16:35:06Z
 loc:
   Go:
     code: 139671
