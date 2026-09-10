@@ -4,7 +4,7 @@
 
 Customization of kubernetes YAML configurations
 
-![kustomize](https://repo.x-cmd.io/kustomize.svg)
+![kustomize](https://repo.x-cmd.io/kustomize.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,24 @@ x install kustomize
 - **最新版本**: `kustomize/v5.8.1` (2026-02-09)
 - **最近提交**: 2026-09-09
 - **Release 含资产**: 9 个
-- **发布时间**: 2026-02-09T16:40:16Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksums.txt](https://github.com/kubernetes-sigs/kustomize/releases/download/kustomize/v5.8.1/checksums.txt) | 818 B | `other` |
+| [kustomize_v5.8.1_darwin_amd64.tar.gz](https://github.com/kubernetes-sigs/kustomize/releases/download/kustomize/v5.8.1/kustomize_v5.8.1_darwin_amd64.tar.gz) | 5.0 MiB | `native/darwin/x64` |
+| [kustomize_v5.8.1_darwin_arm64.tar.gz](https://github.com/kubernetes-sigs/kustomize/releases/download/kustomize/v5.8.1/kustomize_v5.8.1_darwin_arm64.tar.gz) | 4.7 MiB | `native/darwin/arm64` |
+| [kustomize_v5.8.1_linux_amd64.tar.gz](https://github.com/kubernetes-sigs/kustomize/releases/download/kustomize/v5.8.1/kustomize_v5.8.1_linux_amd64.tar.gz) | 4.9 MiB | `native/linux/x64` |
+| [kustomize_v5.8.1_linux_arm64.tar.gz](https://github.com/kubernetes-sigs/kustomize/releases/download/kustomize/v5.8.1/kustomize_v5.8.1_linux_arm64.tar.gz) | 4.5 MiB | `native/linux/arm64` |
+| [kustomize_v5.8.1_linux_ppc64le.tar.gz](https://github.com/kubernetes-sigs/kustomize/releases/download/kustomize/v5.8.1/kustomize_v5.8.1_linux_ppc64le.tar.gz) | 4.5 MiB | `native/unknown` |
+| [kustomize_v5.8.1_linux_s390x.tar.gz](https://github.com/kubernetes-sigs/kustomize/releases/download/kustomize/v5.8.1/kustomize_v5.8.1_linux_s390x.tar.gz) | 4.8 MiB | `native/unknown` |
+| [kustomize_v5.8.1_windows_amd64.zip](https://github.com/kubernetes-sigs/kustomize/releases/download/kustomize/v5.8.1/kustomize_v5.8.1_windows_amd64.zip) | 5.1 MiB | `native/win/x64` |
+| [kustomize_v5.8.1_windows_arm64.zip](https://github.com/kubernetes-sigs/kustomize/releases/download/kustomize/v5.8.1/kustomize_v5.8.1_windows_arm64.zip) | 4.6 MiB | `native/win/arm64` |
 
 ## 流行度
 
-- **Star**: 12,158 · **Fork**: 2,419 · **开放 issue**: 2,522 · **贡献者**: 814
+- **Star**: 12,161 · **Fork**: 2,418 · **开放 issue**: 2,522 · **贡献者**: 814
 
 ## 累计统计
 
@@ -71,4 +84,4 @@ kustomize 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:55:34Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:35:11Z._
