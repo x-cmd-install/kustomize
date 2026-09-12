@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 0 | 19 | 11 | 2 | 3 | 19 |
-| last60d | 2026-07-13 | 0 | 26 | 22 | 5 | 5 | 28 |
-| 90d | 2026-06-13 | 0 | 34 | 27 | 8 | 6 | 37 |
-| last180d | 2026-03-15 | 0 | 43 | 38 | 15 | 13 | 48 |
-| 360d | 2025-09-16 | 8 | 72 | 48 | 42 | 29 | 87 |
-| last720d | 2024-09-21 | 25 | 136 | 53 | 121 | 40 | 288 |
+| 30d | 2026-08-13 | 0 | 19 | 10 | 2 | 3 | 19 |
+| last60d | 2026-07-14 | 0 | 26 | 22 | 5 | 5 | 28 |
+| 90d | 2026-06-14 | 0 | 34 | 26 | 8 | 6 | 37 |
+| last180d | 2026-03-16 | 0 | 42 | 38 | 15 | 13 | 48 |
+| 360d | 2025-09-17 | 8 | 71 | 48 | 42 | 29 | 87 |
+| last720d | 2024-09-22 | 25 | 136 | 53 | 121 | 40 | 288 |
 
 ## Release assets
 
@@ -104,4 +104,4 @@ Install metadata for kustomize lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T20:10:02Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T04:53:10Z._
