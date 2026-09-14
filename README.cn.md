@@ -51,18 +51,18 @@ x install kustomize
 
 ## 累计统计
 
-- **发布数**: 280 · **已合并 PR**: 2926 · **开放 PR**: 56 · **已关闭 issue**: 2385 · **开放 issue**: 137 · **提交数**: 7156
+- **发布数**: 280 · **已合并 PR**: 2926 · **开放 PR**: 57 · **已关闭 issue**: 2385 · **开放 issue**: 137 · **提交数**: 7156
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 19 | 12 | 2 | 2 | 19 |
-| last60d | 2026-07-15 | 0 | 26 | 25 | 5 | 4 | 28 |
-| 90d | 2026-06-15 | 0 | 33 | 29 | 7 | 6 | 37 |
-| last180d | 2026-03-17 | 0 | 42 | 41 | 15 | 13 | 48 |
-| 360d | 2025-09-18 | 8 | 71 | 51 | 41 | 29 | 87 |
-| last720d | 2024-09-23 | 25 | 135 | 56 | 120 | 40 | 288 |
+| 30d | 2026-08-15 | 0 | 19 | 13 | 2 | 2 | 16 |
+| last60d | 2026-07-16 | 0 | 26 | 26 | 5 | 4 | 26 |
+| 90d | 2026-06-16 | 0 | 33 | 30 | 7 | 5 | 36 |
+| last180d | 2026-03-18 | 0 | 42 | 42 | 15 | 13 | 48 |
+| 360d | 2025-09-19 | 8 | 71 | 52 | 41 | 29 | 87 |
+| last720d | 2024-09-24 | 25 | 135 | 57 | 120 | 40 | 287 |
 
 ## Release 资产
 
@@ -78,23 +78,6 @@ x install kustomize
 | [kustomize_v5.8.1_windows_amd64.zip](https://github.com/kubernetes-sigs/kustomize/releases/download/kustomize/v5.8.1/kustomize_v5.8.1_windows_amd64.zip) | 5.1 MiB | `native/win/x64` |
 | [kustomize_v5.8.1_windows_arm64.zip](https://github.com/kubernetes-sigs/kustomize/releases/download/kustomize/v5.8.1/kustomize_v5.8.1_windows_arm64.zip) | 4.6 MiB | `native/win/arm64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/kustomize) 上共有 **116** 个发行版报告此项目。**33** 个 ✅ 已是最新上游版本，**42** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Debian unstable | `5.8.1` | ✅ latest |
-| Debian 14 | `5.8.1` | ✅ latest |
-| Debian 13 | `5.6.0` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `5.8.0` | ⚠️ outdated |
-| Arch | `5.8.1` | ✅ latest |
-| Homebrew | `5.8.1` | ✅ latest |
-| Fedora rawhide | `5.8.1` | ✅ latest |
-| Nix unstable | `5.8.1` | ✅ latest |
-| Alpine edge | `5.8.1` | ✅ latest |
-| openSUSE Tumbleweed | `5.8.1` | ✅ latest |
-
 ## 改进这些数据
 
 kustomize 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `kustomize` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -104,4 +87,4 @@ kustomize 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T05:00:47Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T05:06:51Z._
