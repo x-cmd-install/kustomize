@@ -14,11 +14,11 @@ x install kustomize
 
 ## Code insight
 
-Total: **151,691** lines of code across **1063** files in the top 5 languages.
+Total: **151,690** lines of code across **1063** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 139,671 | 13,081 | 12,484 | 781 |
+| Go | 139,670 | 13,081 | 12,484 | 781 |
 | Json | 5,780 | 0 | 23 | 12 |
 | Yaml | 3,742 | 346 | 100 | 211 |
 | Sh | 1,195 | 376 | 286 | 32 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `kustomize/v5.8.1` (2026-02-09)
-- **Last commit**: 2026-09-09
+- **Last commit**: 2026-09-14
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 12,163 · **Forks**: 2,419 · **Open issues**: 2,522 · **Contributors**: 816
+- **Stars**: 12,161 · **Forks**: 2,420 · **Open issues**: 2,523 · **Contributors**: 816
 
 ## Totals (cumulative)
 
-- **Releases**: 280 · **Merged PRs**: 2926 · **Open PRs**: 57 · **Closed issues**: 2385 · **Open issues**: 137 · **Commits**: 7156
+- **Releases**: 280 · **Merged PRs**: 2929 · **Open PRs**: 57 · **Closed issues**: 2385 · **Open issues**: 138 · **Commits**: 7161
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 0 | 19 | 13 | 2 | 2 | 16 |
-| last60d | 2026-07-16 | 0 | 26 | 26 | 5 | 4 | 26 |
-| 90d | 2026-06-16 | 0 | 33 | 30 | 7 | 5 | 36 |
-| last180d | 2026-03-18 | 0 | 42 | 42 | 15 | 13 | 48 |
-| 360d | 2025-09-19 | 8 | 71 | 52 | 41 | 29 | 87 |
-| last720d | 2024-09-24 | 25 | 135 | 57 | 120 | 40 | 287 |
+| 30d | 2026-08-16 | 0 | 22 | 13 | 2 | 3 | 19 |
+| last60d | 2026-07-17 | 0 | 28 | 26 | 5 | 5 | 29 |
+| 90d | 2026-06-17 | 0 | 36 | 30 | 7 | 6 | 39 |
+| last180d | 2026-03-19 | 0 | 45 | 42 | 15 | 14 | 51 |
+| 360d | 2025-09-20 | 8 | 74 | 52 | 41 | 30 | 90 |
+| last720d | 2024-09-25 | 25 | 138 | 57 | 120 | 41 | 292 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for kustomize lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T05:06:51Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T05:09:56Z._
