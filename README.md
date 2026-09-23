@@ -4,7 +4,7 @@
 
 Customization of kubernetes YAML configurations
 
-[![x-cmd/install — kustomize Code Quality Monitoring Repo Card](https://repo.x-cmd.io/kustomize.svg)](https://x-cmd.com/install/kustomize)
+[![x-cmd/install — kustomize Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/kustomize.svg)](https://x-cmd.com/install/kustomize)
 
 ## Install
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 12,167 · **Forks**: 2,421 · **Open issues**: 2,523 · **Contributors**: 821
+- **Stars**: 12,167 · **Forks**: 2,423 · **Open issues**: 2,523 · **Contributors**: 821
 
 ## Totals (cumulative)
 
-- **Releases**: 280 · **Merged PRs**: 2934 · **Open PRs**: 45 · **Closed issues**: 2388 · **Open issues**: 135 · **Commits**: 7172
+- **Releases**: 280 · **Merged PRs**: 2934 · **Open PRs**: 46 · **Closed issues**: 2388 · **Open issues**: 135 · **Commits**: 7172
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 23 | 9 | 3 | 0 | 24 |
-| last60d | 2026-07-24 | 0 | 31 | 15 | 7 | 2 | 30 |
-| 90d | 2026-06-24 | 0 | 38 | 21 | 9 | 3 | 43 |
-| last180d | 2026-03-26 | 0 | 49 | 32 | 18 | 10 | 54 |
-| 360d | 2025-09-27 | 8 | 79 | 40 | 43 | 27 | 94 |
-| last720d | 2024-10-02 | 25 | 141 | 45 | 120 | 38 | 299 |
+| 30d | 2026-08-24 | 0 | 23 | 10 | 3 | 0 | 24 |
+| last60d | 2026-07-25 | 0 | 30 | 14 | 7 | 2 | 30 |
+| 90d | 2026-06-25 | 0 | 38 | 22 | 9 | 3 | 43 |
+| last180d | 2026-03-27 | 0 | 49 | 33 | 18 | 10 | 54 |
+| 360d | 2025-09-28 | 8 | 79 | 41 | 43 | 27 | 94 |
+| last720d | 2024-10-03 | 25 | 141 | 46 | 119 | 38 | 299 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for kustomize lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:07:18Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:08:23Z._

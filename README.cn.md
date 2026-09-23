@@ -4,7 +4,7 @@
 
 Customization of kubernetes YAML configurations
 
-[![x-cmd/install — kustomize Code Quality Monitoring Repo Card](https://repo.x-cmd.io/kustomize.svg?lang=zh)](https://x-cmd.com/install/kustomize)
+[![x-cmd/install — kustomize Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/kustomize.svg?lang=zh)](https://x-cmd.com/install/kustomize)
 
 ## 安装
 
@@ -47,22 +47,22 @@ x install kustomize
 
 ## 流行度
 
-- **Star**: 12,167 · **Fork**: 2,421 · **开放 issue**: 2,523 · **贡献者**: 821
+- **Star**: 12,167 · **Fork**: 2,423 · **开放 issue**: 2,523 · **贡献者**: 821
 
 ## 累计统计
 
-- **发布数**: 280 · **已合并 PR**: 2934 · **开放 PR**: 45 · **已关闭 issue**: 2388 · **开放 issue**: 135 · **提交数**: 7172
+- **发布数**: 280 · **已合并 PR**: 2934 · **开放 PR**: 46 · **已关闭 issue**: 2388 · **开放 issue**: 135 · **提交数**: 7172
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 23 | 9 | 3 | 0 | 24 |
-| last60d | 2026-07-24 | 0 | 31 | 15 | 7 | 2 | 30 |
-| 90d | 2026-06-24 | 0 | 38 | 21 | 9 | 3 | 43 |
-| last180d | 2026-03-26 | 0 | 49 | 32 | 18 | 10 | 54 |
-| 360d | 2025-09-27 | 8 | 79 | 40 | 43 | 27 | 94 |
-| last720d | 2024-10-02 | 25 | 141 | 45 | 120 | 38 | 299 |
+| 30d | 2026-08-24 | 0 | 23 | 10 | 3 | 0 | 24 |
+| last60d | 2026-07-25 | 0 | 30 | 14 | 7 | 2 | 30 |
+| 90d | 2026-06-25 | 0 | 38 | 22 | 9 | 3 | 43 |
+| last180d | 2026-03-27 | 0 | 49 | 33 | 18 | 10 | 54 |
+| 360d | 2025-09-28 | 8 | 79 | 41 | 43 | 27 | 94 |
+| last720d | 2024-10-03 | 25 | 141 | 46 | 119 | 38 | 299 |
 
 ## Release 资产
 
@@ -87,4 +87,4 @@ kustomize 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:07:18Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:08:24Z._
