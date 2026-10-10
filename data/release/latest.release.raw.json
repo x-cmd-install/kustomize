@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 818,
       "digest": "sha256:04c0f148d8c9af726cabbcd7c6e7f943a88ca971f66eada9855ec1bfe1e1b982",
-      "download_count": 1218,
+      "download_count": 2732,
       "created_at": "2026-10-08T11:40:41Z",
       "updated_at": "2026-10-08T11:40:42Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/kustomize/releases/download/kustomize/v5.8.3/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 5132020,
       "digest": "sha256:d08fb85846c3d977f0e2a66e7ff45f1b5264c294685e5e726e1a8bdfe0da8dee",
-      "download_count": 25,
+      "download_count": 44,
       "created_at": "2026-10-08T11:40:41Z",
       "updated_at": "2026-10-08T11:40:42Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/kustomize/releases/download/kustomize/v5.8.3/kustomize_v5.8.3_darwin_amd64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 4726414,
       "digest": "sha256:4cbb08e209d8fff47cd60bfb6407daaf5ee699f9b9295849a1065024fac2d1ef",
-      "download_count": 120,
+      "download_count": 276,
       "created_at": "2026-10-08T11:40:41Z",
       "updated_at": "2026-10-08T11:40:42Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/kustomize/releases/download/kustomize/v5.8.3/kustomize_v5.8.3_darwin_arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 5059714,
       "digest": "sha256:cb9e31198d3f63b44848bd0afc4c8efc56e6cfef9c93a4a39a211940e6decd61",
-      "download_count": 25189,
+      "download_count": 54837,
       "created_at": "2026-10-08T11:40:41Z",
       "updated_at": "2026-10-08T11:40:42Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/kustomize/releases/download/kustomize/v5.8.3/kustomize_v5.8.3_linux_amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 4550157,
       "digest": "sha256:9867b76482cfc6d25b546abc1d2b5a32bd137505aba640649b4b378f64f6d68f",
-      "download_count": 1137,
+      "download_count": 2346,
       "created_at": "2026-10-08T11:40:41Z",
       "updated_at": "2026-10-08T11:40:42Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/kustomize/releases/download/kustomize/v5.8.3/kustomize_v5.8.3_linux_arm64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 4617733,
       "digest": "sha256:ff2f0b1f90cca3c14aae949d755c4796f4307d7cdb7bc6b7375044caf15814cb",
-      "download_count": 17,
+      "download_count": 28,
       "created_at": "2026-10-08T11:40:42Z",
       "updated_at": "2026-10-08T11:40:43Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/kustomize/releases/download/kustomize/v5.8.3/kustomize_v5.8.3_linux_ppc64le.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 4947821,
       "digest": "sha256:b3f3bea8f941cae63d7fcd358dabc886498ba85ed628ff5a3b21da62e52d9db7",
-      "download_count": 23,
+      "download_count": 34,
       "created_at": "2026-10-08T11:40:42Z",
       "updated_at": "2026-10-08T11:40:43Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/kustomize/releases/download/kustomize/v5.8.3/kustomize_v5.8.3_linux_s390x.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 5208138,
       "digest": "sha256:763c4040ff01435bfce39661072452ebdf1cf2808bb91f5708ab4420834fbd42",
-      "download_count": 142,
+      "download_count": 345,
       "created_at": "2026-10-08T11:40:42Z",
       "updated_at": "2026-10-08T11:40:43Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/kustomize/releases/download/kustomize/v5.8.3/kustomize_v5.8.3_windows_amd64.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 4641084,
       "digest": "sha256:b86236917e649e2f9531899c519f333e554cd1fc0c87132b86b885bf315735dc",
-      "download_count": 20,
+      "download_count": 26,
       "created_at": "2026-10-08T11:40:42Z",
       "updated_at": "2026-10-08T11:40:43Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/kustomize/releases/download/kustomize/v5.8.3/kustomize_v5.8.3_windows_arm64.zip"
