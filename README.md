@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `kustomize/v5.8.3` (2026-10-08)
-- **Last commit**: 2026-10-08
+- **Last commit**: 2026-10-11
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 12,181 · **Forks**: 2,436 · **Open issues**: 2,531 · **Contributors**: 832
+- **Stars**: 12,181 · **Forks**: 2,437 · **Open issues**: 2,531 · **Contributors**: 832
 
 ## Totals (cumulative)
 
-- **Releases**: 288 · **Merged PRs**: 2948 · **Open PRs**: 61 · **Closed issues**: 2391 · **Open issues**: 140 · **Commits**: 7202
+- **Releases**: 288 · **Merged PRs**: 2949 · **Open PRs**: 60 · **Closed issues**: 2391 · **Open issues**: 140 · **Commits**: 7204
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 8 | 18 | 21 | 2 | 7 | 21 |
-| last60d | 2026-08-12 | 8 | 40 | 26 | 6 | 8 | 45 |
-| 90d | 2026-07-13 | 8 | 47 | 33 | 9 | 10 | 52 |
-| last180d | 2026-04-14 | 8 | 61 | 46 | 17 | 16 | 68 |
-| 360d | 2025-10-16 | 16 | 91 | 56 | 43 | 31 | 104 |
-| last720d | 2024-10-21 | 28 | 150 | 61 | 116 | 43 | 319 |
+| 30d | 2026-09-12 | 8 | 19 | 20 | 2 | 7 | 17 |
+| last60d | 2026-08-13 | 8 | 41 | 24 | 6 | 8 | 43 |
+| 90d | 2026-07-14 | 8 | 48 | 32 | 9 | 10 | 51 |
+| last180d | 2026-04-15 | 8 | 62 | 45 | 17 | 16 | 69 |
+| 360d | 2025-10-17 | 16 | 92 | 55 | 42 | 31 | 105 |
+| last720d | 2024-10-22 | 28 | 151 | 60 | 116 | 43 | 321 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for kustomize lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T05:50:01Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T06:09:18Z._
