@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `kustomize/v5.8.3` (2026-10-08)
-- **Last commit**: 2026-10-11
+- **Last commit**: 2026-10-16
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 12,184 · **Forks**: 2,437 · **Open issues**: 2,533 · **Contributors**: 835
+- **Stars**: 12,183 · **Forks**: 2,437 · **Open issues**: 2,533 · **Contributors**: 837
 
 ## Totals (cumulative)
 
-- **Releases**: 288 · **Merged PRs**: 2949 · **Open PRs**: 60 · **Closed issues**: 2391 · **Open issues**: 142 · **Commits**: 7204
+- **Releases**: 288 · **Merged PRs**: 2952 · **Open PRs**: 55 · **Closed issues**: 2392 · **Open issues**: 141 · **Commits**: 7210
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 8 | 15 | 20 | 0 | 9 | 17 |
-| last60d | 2026-08-17 | 8 | 40 | 24 | 6 | 9 | 43 |
-| 90d | 2026-07-18 | 8 | 47 | 32 | 9 | 11 | 51 |
-| last180d | 2026-04-19 | 8 | 62 | 43 | 17 | 18 | 69 |
-| 360d | 2025-10-21 | 16 | 92 | 54 | 42 | 32 | 105 |
-| last720d | 2024-10-26 | 28 | 151 | 60 | 116 | 45 | 321 |
+| 30d | 2026-09-17 | 8 | 18 | 13 | 0 | 9 | 20 |
+| last60d | 2026-08-18 | 8 | 43 | 21 | 5 | 9 | 46 |
+| 90d | 2026-07-19 | 8 | 50 | 28 | 9 | 11 | 54 |
+| last180d | 2026-04-20 | 8 | 65 | 40 | 17 | 18 | 72 |
+| 360d | 2025-10-22 | 16 | 95 | 49 | 42 | 31 | 108 |
+| last720d | 2024-10-27 | 28 | 154 | 55 | 117 | 44 | 327 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for kustomize lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T04:39:26Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T04:32:42Z._
