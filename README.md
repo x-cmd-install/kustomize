@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `kustomize/v5.8.3` (2026-10-08)
-- **Last commit**: 2026-10-16
+- **Last commit**: 2026-10-18
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 12,183 · **Forks**: 2,437 · **Open issues**: 2,533 · **Contributors**: 837
+- **Stars**: 12,185 · **Forks**: 2,436 · **Open issues**: 2,533 · **Contributors**: 837
 
 ## Totals (cumulative)
 
-- **Releases**: 288 · **Merged PRs**: 2952 · **Open PRs**: 55 · **Closed issues**: 2392 · **Open issues**: 141 · **Commits**: 7210
+- **Releases**: 288 · **Merged PRs**: 2953 · **Open PRs**: 56 · **Closed issues**: 2397 · **Open issues**: 136 · **Commits**: 7212
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 8 | 18 | 13 | 0 | 9 | 20 |
-| last60d | 2026-08-18 | 8 | 43 | 21 | 5 | 9 | 46 |
-| 90d | 2026-07-19 | 8 | 50 | 28 | 9 | 11 | 54 |
-| last180d | 2026-04-20 | 8 | 65 | 40 | 17 | 18 | 72 |
-| 360d | 2025-10-22 | 16 | 95 | 49 | 42 | 31 | 108 |
-| last720d | 2024-10-27 | 28 | 154 | 55 | 117 | 44 | 327 |
+| 30d | 2026-09-18 | 8 | 19 | 13 | 0 | 9 | 21 |
+| last60d | 2026-08-19 | 8 | 43 | 21 | 4 | 9 | 45 |
+| 90d | 2026-07-20 | 8 | 50 | 29 | 9 | 11 | 54 |
+| last180d | 2026-04-21 | 8 | 66 | 41 | 17 | 18 | 73 |
+| 360d | 2025-10-23 | 16 | 96 | 50 | 43 | 30 | 109 |
+| last720d | 2024-10-28 | 28 | 155 | 56 | 120 | 41 | 329 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for kustomize lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261017.yml` · 2026-10-17T04:32:42Z._
+_Snapshot: `data/card/261018.yml` · 2026-10-18T04:38:37Z._
