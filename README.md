@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 288 · **Merged PRs**: 2953 · **Open PRs**: 56 · **Closed issues**: 2397 · **Open issues**: 136 · **Commits**: 7212
+- **Releases**: 288 · **Merged PRs**: 2954 · **Open PRs**: 55 · **Closed issues**: 2397 · **Open issues**: 136 · **Commits**: 7214
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 8 | 19 | 13 | 0 | 9 | 21 |
-| last60d | 2026-08-19 | 8 | 43 | 21 | 4 | 9 | 45 |
-| 90d | 2026-07-20 | 8 | 50 | 29 | 9 | 11 | 54 |
-| last180d | 2026-04-21 | 8 | 66 | 41 | 17 | 18 | 73 |
-| 360d | 2025-10-23 | 16 | 96 | 50 | 43 | 30 | 109 |
-| last720d | 2024-10-28 | 28 | 155 | 56 | 120 | 41 | 329 |
+| 30d | 2026-09-19 | 8 | 20 | 12 | 0 | 9 | 22 |
+| last60d | 2026-08-20 | 8 | 43 | 20 | 4 | 9 | 46 |
+| 90d | 2026-07-21 | 8 | 51 | 27 | 9 | 11 | 55 |
+| last180d | 2026-04-22 | 8 | 67 | 40 | 17 | 18 | 74 |
+| 360d | 2025-10-24 | 16 | 97 | 49 | 43 | 30 | 110 |
+| last720d | 2024-10-29 | 28 | 156 | 55 | 119 | 41 | 331 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for kustomize lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T04:38:37Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T04:47:19Z._
