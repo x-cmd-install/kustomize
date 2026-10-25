@@ -1,42 +1,176 @@
-- repo: parrot
-  subrepo: parrot-updates/main
-  srcname: kustomize
-  binnames:
-    - kustomize
-    - golang-k8s-sigs-kustomize-dev
-  visiblename: kustomize
-  version: 5.6.0
-  origversion: 5.6.0+ds-1
-  status: outdated
-  maintainers:
-    - team+kubernetes@tracker.debian.org
-    - arthurbdiniz@gmail.com
-  categories:
-    - misc
 - repo: wakemeops
   subrepo: devops
   binname: kustomize
   visiblename: kustomize
-  version: 5.0.0
-  origversion: 5.0.0-1~ops2deb
+  version: 4.4.1
+  origversion: 4.4.1-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
-- repo: kali_rolling
-  subrepo: main
-  srcname: kustomize
-  binnames:
-    - kustomize
-    - golang-k8s-sigs-kustomize-dev
+- repo: wakemeops
+  subrepo: devops
+  binname: kustomize
   visiblename: kustomize
-  version: 5.8.1
-  origversion: 5.8.1+ds-1
-  status: outdated
+  version: 4.0.0
+  origversion: 4.0.0-1~ops2deb
+  status: legacy
   maintainers:
-    - team+kubernetes@tracker.debian.org
-    - arthurbdiniz@gmail.com
-  categories:
-    - misc
+    - ops2deb@upciti.com
+- repo: nix_stable_25_11
+  srcname: kustomize_4
+  visiblename: kustomize_4
+  version: 4.5.7
+  origversion: null
+  status: legacy
+  summary: Customization of kubernetes YAML configurations
+  maintainers:
+    - m@cdagostino.io
+    - vincent@sbr.pm
+    - theopompos@gmail.com
+    - francesco@zanini.me
+    - dr.elhombrechile@gmail.com
+    - mail@saschagrunert.de
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_18
+  subrepo: community
+  srcname: kustomize
+  binname: kustomize
+  visiblename: kustomize
+  version: 5.0.2
+  origversion: 5.0.2-r4
+  status: outdated
+  summary: Template-free customization of Kubernetes YAML manifests
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_18
+  subrepo: community
+  srcname: kustomize
+  binname: kustomize-bash-completion
+  visiblename: kustomize-bash-completion
+  version: 5.0.2
+  origversion: 5.0.2-r4
+  status: outdated
+  summary: Bash completions for kustomize
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_18
+  subrepo: community
+  srcname: kustomize
+  binname: kustomize-fish-completion
+  visiblename: kustomize-fish-completion
+  version: 5.0.2
+  origversion: 5.0.2-r4
+  status: outdated
+  summary: Fish completions for kustomize
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_18
+  subrepo: community
+  srcname: kustomize
+  binname: kustomize-zsh-completion
+  visiblename: kustomize-zsh-completion
+  version: 5.0.2
+  origversion: 5.0.2-r4
+  status: outdated
+  summary: Zsh completions for kustomize
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_19
+  subrepo: community
+  srcname: kustomize
+  binname: kustomize
+  visiblename: kustomize
+  version: 5.2.1
+  origversion: 5.2.1-r3
+  status: outdated
+  summary: Template-free customization of Kubernetes YAML manifests
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_19
+  subrepo: community
+  srcname: kustomize
+  binname: kustomize-bash-completion
+  visiblename: kustomize-bash-completion
+  version: 5.2.1
+  origversion: 5.2.1-r3
+  status: outdated
+  summary: Bash completions for kustomize
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_19
+  subrepo: community
+  srcname: kustomize
+  binname: kustomize-fish-completion
+  visiblename: kustomize-fish-completion
+  version: 5.2.1
+  origversion: 5.2.1-r3
+  status: outdated
+  summary: Fish completions for kustomize
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - Apache-2.0
+- repo: wakemeops
+  subrepo: devops
+  binname: kustomize
+  visiblename: kustomize
+  version: 3.10.0
+  origversion: 3.10.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: alpine_3_19
+  subrepo: community
+  srcname: kustomize
+  binname: kustomize-zsh-completion
+  visiblename: kustomize-zsh-completion
+  version: 5.2.1
+  origversion: 5.2.1-r3
+  status: outdated
+  summary: Zsh completions for kustomize
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_20
+  subrepo: community
+  srcname: kustomize
+  binname: kustomize
+  visiblename: kustomize
+  version: 5.3.0
+  origversion: 5.3.0-r6
+  status: outdated
+  summary: Template-free customization of Kubernetes YAML manifests
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_20
+  subrepo: community
+  srcname: kustomize
+  binname: kustomize-bash-completion
+  visiblename: kustomize-bash-completion
+  version: 5.3.0
+  origversion: 5.3.0-r6
+  status: outdated
+  summary: Bash completions for kustomize
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - Apache-2.0
 - repo: parrot
   subrepo: parrot/main
   srcname: kustomize
@@ -52,136 +186,6 @@
     - arthurbdiniz@gmail.com
   categories:
     - misc
-- repo: alpine_3_18
-  subrepo: community
-  srcname: kustomize
-  binname: kustomize
-  visiblename: kustomize
-  version: 5.0.2
-  origversion: 5.0.2-r4
-  status: outdated
-  summary: Template-free customization of Kubernetes YAML manifests
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_18
-  subrepo: community
-  srcname: kustomize
-  binname: kustomize-bash-completion
-  visiblename: kustomize-bash-completion
-  version: 5.0.2
-  origversion: 5.0.2-r4
-  status: outdated
-  summary: Bash completions for kustomize
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_18
-  subrepo: community
-  srcname: kustomize
-  binname: kustomize-fish-completion
-  visiblename: kustomize-fish-completion
-  version: 5.0.2
-  origversion: 5.0.2-r4
-  status: outdated
-  summary: Fish completions for kustomize
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_18
-  subrepo: community
-  srcname: kustomize
-  binname: kustomize-zsh-completion
-  visiblename: kustomize-zsh-completion
-  version: 5.0.2
-  origversion: 5.0.2-r4
-  status: outdated
-  summary: Zsh completions for kustomize
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_19
-  subrepo: community
-  srcname: kustomize
-  binname: kustomize
-  visiblename: kustomize
-  version: 5.2.1
-  origversion: 5.2.1-r3
-  status: outdated
-  summary: Template-free customization of Kubernetes YAML manifests
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_19
-  subrepo: community
-  srcname: kustomize
-  binname: kustomize-bash-completion
-  visiblename: kustomize-bash-completion
-  version: 5.2.1
-  origversion: 5.2.1-r3
-  status: outdated
-  summary: Bash completions for kustomize
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_19
-  subrepo: community
-  srcname: kustomize
-  binname: kustomize-fish-completion
-  visiblename: kustomize-fish-completion
-  version: 5.2.1
-  origversion: 5.2.1-r3
-  status: outdated
-  summary: Fish completions for kustomize
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_19
-  subrepo: community
-  srcname: kustomize
-  binname: kustomize-zsh-completion
-  visiblename: kustomize-zsh-completion
-  version: 5.2.1
-  origversion: 5.2.1-r3
-  status: outdated
-  summary: Zsh completions for kustomize
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_20
-  subrepo: community
-  srcname: kustomize
-  binname: kustomize
-  visiblename: kustomize
-  version: 5.3.0
-  origversion: 5.3.0-r6
-  status: outdated
-  summary: Template-free customization of Kubernetes YAML manifests
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_20
-  subrepo: community
-  srcname: kustomize
-  binname: kustomize-bash-completion
-  visiblename: kustomize-bash-completion
-  version: 5.3.0
-  origversion: 5.3.0-r6
-  status: outdated
-  summary: Bash completions for kustomize
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - Apache-2.0
 - repo: alpine_3_20
   subrepo: community
   srcname: kustomize
@@ -577,22 +581,6 @@
     - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND ISC AND MIT AND MPL-2.0
   categories:
     - Unspecified
-- repo: nix_stable_25_11
-  srcname: kustomize_4
-  visiblename: kustomize_4
-  version: 4.5.7
-  origversion: null
-  status: legacy
-  summary: Customization of kubernetes YAML configurations
-  maintainers:
-    - m@cdagostino.io
-    - vincent@sbr.pm
-    - theopompos@gmail.com
-    - francesco@zanini.me
-    - dr.elhombrechile@gmail.com
-    - mail@saschagrunert.de
-  licenses:
-    - Apache-2.0
 - repo: epel_10
   srcname: kustomize
   binnames:
@@ -608,6 +596,21 @@
     - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND ISC AND MIT AND MPL-2.0
   categories:
     - Unspecified
+- repo: pureos_landing
+  subrepo: landing/main
+  srcname: kustomize
+  binnames:
+    - golang-k8s-sigs-kustomize-dev
+    - kustomize
+  visiblename: kustomize
+  version: 5.6.0
+  origversion: 5.6.0+ds-1
+  status: outdated
+  maintainers:
+    - team+kubernetes@tracker.debian.org
+    - arthurbdiniz@gmail.com
+  categories:
+    - golang
 - repo: fedora_41
   subrepo: updates
   srcname: kustomize
@@ -730,6 +733,51 @@
   origversion: null
   status: rolling
   summary: Template-free customization of Kubernetes YAML manifests
+- repo: kali_rolling
+  subrepo: main
+  srcname: kustomize
+  binnames:
+    - kustomize
+    - golang-k8s-sigs-kustomize-dev
+  visiblename: kustomize
+  version: 5.8.1
+  origversion: 5.8.1+ds-1
+  status: outdated
+  maintainers:
+    - team+kubernetes@tracker.debian.org
+    - arthurbdiniz@gmail.com
+  categories:
+    - misc
+- repo: raspbian_stable
+  subrepo: main
+  srcname: kustomize
+  binnames:
+    - kustomize
+    - golang-k8s-sigs-kustomize-dev
+  visiblename: kustomize
+  version: 5.6.0
+  origversion: 5.6.0+ds-1
+  status: outdated
+  maintainers:
+    - team+kubernetes@tracker.debian.org
+    - arthurbdiniz@gmail.com
+  categories:
+    - misc
+- repo: raspbian_testing
+  subrepo: main
+  srcname: kustomize
+  binnames:
+    - kustomize
+    - golang-k8s-sigs-kustomize-dev
+  visiblename: kustomize
+  version: 5.8.1
+  origversion: 5.8.1+ds-1
+  status: outdated
+  maintainers:
+    - team+kubernetes@tracker.debian.org
+    - arthurbdiniz@gmail.com
+  categories:
+    - misc
 - repo: macports
   srcname: devel/kustomize
   binname: kustomize
@@ -826,15 +874,6 @@
     - mail@saschagrunert.de
   licenses:
     - Apache-2.0
-- repo: wakemeops
-  subrepo: devops
-  binname: kustomize
-  visiblename: kustomize
-  version: 5.0.1
-  origversion: 5.0.1-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
 - repo: nix_stable_24_11
   srcname: kustomize
   visiblename: kustomize
@@ -1115,23 +1154,8 @@
   summary: Template-free customization of Kubernetes YAML manifests
   licenses:
     - Apache-2.0
-- repo: pureos_landing
-  subrepo: landing/main
-  srcname: kustomize
-  binnames:
-    - golang-k8s-sigs-kustomize-dev
-    - kustomize
-  visiblename: kustomize
-  version: 5.6.0
-  origversion: 5.6.0+ds-1
-  status: outdated
-  maintainers:
-    - team+kubernetes@tracker.debian.org
-    - arthurbdiniz@gmail.com
-  categories:
-    - golang
-- repo: raspbian_stable
-  subrepo: main
+- repo: parrot
+  subrepo: parrot-updates/main
   srcname: kustomize
   binnames:
     - kustomize
@@ -1139,21 +1163,6 @@
   visiblename: kustomize
   version: 5.6.0
   origversion: 5.6.0+ds-1
-  status: outdated
-  maintainers:
-    - team+kubernetes@tracker.debian.org
-    - arthurbdiniz@gmail.com
-  categories:
-    - misc
-- repo: raspbian_testing
-  subrepo: main
-  srcname: kustomize
-  binnames:
-    - kustomize
-    - golang-k8s-sigs-kustomize-dev
-  visiblename: kustomize
-  version: 5.8.1
-  origversion: 5.8.1+ds-1
   status: outdated
   maintainers:
     - team+kubernetes@tracker.debian.org
@@ -1395,6 +1404,24 @@
   subrepo: devops
   binname: kustomize
   visiblename: kustomize
+  version: 5.0.1
+  origversion: 5.0.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: kustomize
+  visiblename: kustomize
+  version: 5.0.0
+  origversion: 5.0.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: kustomize
+  visiblename: kustomize
   version: 4.5.7
   origversion: 4.5.7-1~ops2deb
   status: legacy
@@ -1451,33 +1478,6 @@
   visiblename: kustomize
   version: 4.5.1
   origversion: 4.5.1-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: kustomize
-  visiblename: kustomize
-  version: 4.4.1
-  origversion: 4.4.1-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: kustomize
-  visiblename: kustomize
-  version: 4.0.0
-  origversion: 4.0.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: kustomize
-  visiblename: kustomize
-  version: 3.10.0
-  origversion: 3.10.0-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
