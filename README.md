@@ -14,15 +14,15 @@ x install kustomize
 
 ## Code insight
 
-Total: **172,788** lines of code across **1069** files in the top 5 languages.
+Total: **172,562** lines of code across **1073** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 139,776 | 13,108 | 12,505 | 783 |
+| Go | 139,548 | 13,034 | 12,403 | 787 |
 | Json | 26,112 | 0 | 23 | 13 |
 | Yaml | 3,742 | 346 | 100 | 211 |
-| Sh | 1,910 | 398 | 368 | 35 |
-| Makefile | 555 | 129 | 178 | 27 |
+| Sh | 1,912 | 399 | 368 | 35 |
+| Makefile | 555 | 128 | 178 | 27 |
 
 ## OpenSSF Scorecard
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `kustomize/v5.8.3` (2026-10-08)
-- **Last commit**: 2026-11-01
+- **Last commit**: 2026-11-07
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 12,196 · **Forks**: 2,444 · **Open issues**: 2,534 · **Contributors**: 843
+- **Stars**: 12,197 · **Forks**: 2,444 · **Open issues**: 2,534 · **Contributors**: 843
 
 ## Totals (cumulative)
 
-- **Releases**: 288 · **Merged PRs**: 2956 · **Open PRs**: 59 · **Closed issues**: 2398 · **Open issues**: 136 · **Commits**: 7218
+- **Releases**: 288 · **Merged PRs**: 2957 · **Open PRs**: 58 · **Closed issues**: 2398 · **Open issues**: 136 · **Commits**: 7219
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 4 | 12 | 9 | 0 | 4 | 7 |
-| last60d | 2026-09-07 | 8 | 29 | 24 | 2 | 10 | 32 |
-| 90d | 2026-08-08 | 8 | 50 | 27 | 6 | 11 | 54 |
-| last180d | 2026-05-10 | 8 | 64 | 44 | 15 | 17 | 71 |
-| 360d | 2025-11-11 | 12 | 95 | 53 | 39 | 29 | 107 |
-| last720d | 2024-11-16 | 28 | 158 | 59 | 113 | 42 | 335 |
+| 30d | 2026-10-08 | 4 | 7 | 9 | 0 | 3 | 8 |
+| last60d | 2026-09-08 | 8 | 30 | 22 | 2 | 10 | 33 |
+| 90d | 2026-08-09 | 8 | 51 | 26 | 6 | 11 | 55 |
+| last180d | 2026-05-11 | 8 | 65 | 43 | 15 | 17 | 72 |
+| 360d | 2025-11-12 | 12 | 96 | 52 | 38 | 29 | 108 |
+| last720d | 2024-11-17 | 28 | 159 | 58 | 113 | 42 | 336 |
 
 ## Release assets
 
@@ -80,7 +80,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **118** distros on [repology.org](https://repology.org/project/kustomize). **9** are ✅ on the latest upstream release, **66** are ⚠️ on an older version.
+Reported by **118** distros on [repology.org](https://repology.org/project/kustomize). **10** are ✅ on the latest upstream release, **65** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -104,4 +104,4 @@ Install metadata for kustomize lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T06:51:58Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:07:45Z._
