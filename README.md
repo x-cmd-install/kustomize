@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `kustomize/v5.8.3` (2026-10-08)
-- **Last commit**: 2026-11-07
+- **Last commit**: 2026-11-08
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 12,197 · **Forks**: 2,443 · **Open issues**: 2,534 · **Contributors**: 843
+- **Stars**: 12,197 · **Forks**: 2,444 · **Open issues**: 2,534 · **Contributors**: 843
 
 ## Totals (cumulative)
 
-- **Releases**: 288 · **Merged PRs**: 2957 · **Open PRs**: 61 · **Closed issues**: 2398 · **Open issues**: 136 · **Commits**: 7219
+- **Releases**: 288 · **Merged PRs**: 2959 · **Open PRs**: 59 · **Closed issues**: 2398 · **Open issues**: 136 · **Commits**: 7223
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 7 | 11 | 0 | 3 | 8 |
-| last60d | 2026-09-09 | 8 | 27 | 25 | 2 | 10 | 33 |
-| 90d | 2026-08-10 | 8 | 50 | 29 | 6 | 11 | 55 |
-| last180d | 2026-05-12 | 8 | 65 | 44 | 15 | 16 | 72 |
-| 360d | 2025-11-13 | 12 | 96 | 55 | 37 | 29 | 108 |
-| last720d | 2024-11-18 | 28 | 159 | 61 | 113 | 42 | 336 |
+| 30d | 2026-10-10 | 0 | 9 | 9 | 0 | 3 | 9 |
+| last60d | 2026-09-10 | 8 | 29 | 23 | 2 | 10 | 28 |
+| 90d | 2026-08-11 | 8 | 52 | 27 | 6 | 11 | 54 |
+| last180d | 2026-05-13 | 8 | 67 | 41 | 14 | 16 | 73 |
+| 360d | 2025-11-14 | 12 | 98 | 53 | 36 | 29 | 109 |
+| last720d | 2024-11-19 | 28 | 161 | 59 | 113 | 42 | 340 |
 
 ## Release assets
 
@@ -104,4 +104,4 @@ Install metadata for kustomize lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T06:06:49Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T06:28:39Z._
