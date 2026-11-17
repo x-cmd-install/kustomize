@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 12,206 · **Forks**: 2,443 · **Open issues**: 2,535 · **Contributors**: 845
+- **Stars**: 12,206 · **Forks**: 2,443 · **Open issues**: 2,535 · **Contributors**: 846
 
 ## Totals (cumulative)
 
-- **Releases**: 288 · **Merged PRs**: 2958 · **Open PRs**: 66 · **Closed issues**: 2399 · **Open issues**: 136 · **Commits**: 7223
+- **Releases**: 288 · **Merged PRs**: 2958 · **Open PRs**: 67 · **Closed issues**: 2403 · **Open issues**: 132 · **Commits**: 7223
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 6 | 17 | 0 | 2 | 5 |
-| last60d | 2026-09-17 | 8 | 24 | 26 | 0 | 11 | 27 |
-| 90d | 2026-08-18 | 8 | 49 | 33 | 5 | 11 | 51 |
-| last180d | 2026-05-20 | 8 | 65 | 47 | 14 | 16 | 73 |
-| 360d | 2025-11-21 | 12 | 95 | 59 | 35 | 29 | 106 |
-| last720d | 2024-11-26 | 28 | 158 | 66 | 108 | 39 | 339 |
+| 30d | 2026-10-18 | 0 | 4 | 18 | 0 | 2 | 0 |
+| last60d | 2026-09-18 | 8 | 24 | 27 | 0 | 11 | 0 |
+| 90d | 2026-08-19 | 8 | 48 | 33 | 4 | 11 | 0 |
+| last180d | 2026-05-21 | 8 | 65 | 48 | 14 | 16 | 0 |
+| 360d | 2025-11-22 | 12 | 95 | 60 | 36 | 28 | 0 |
+| last720d | 2024-11-27 | 28 | 158 | 67 | 111 | 36 | 339 |
 
 ## Release assets
 
@@ -80,7 +80,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **118** distros on [repology.org](https://repology.org/project/kustomize). **10** are ✅ on the latest upstream release, **65** are ⚠️ on an older version.
+Reported by **119** distros on [repology.org](https://repology.org/project/kustomize). **10** are ✅ on the latest upstream release, **66** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -104,4 +104,4 @@ Install metadata for kustomize lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T06:38:12Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T08:07:53Z._
