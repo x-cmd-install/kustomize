@@ -21,7 +21,7 @@ Total: **172,562** lines of code across **1073** files in the top 5 languages.
 | Go | 139,548 | 13,034 | 12,403 | 787 |
 | Json | 26,112 | 0 | 23 | 13 |
 | Yaml | 3,742 | 346 | 100 | 211 |
-| Sh | 1,912 | 399 | 368 | 35 |
+| Sh | 1,912 | 400 | 368 | 35 |
 | Makefile | 555 | 128 | 178 | 27 |
 
 ## OpenSSF Scorecard
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `kustomize/v5.8.3` (2026-10-08)
-- **Last commit**: 2026-11-08
+- **Last commit**: 2026-11-18
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 12,206 · **Forks**: 2,443 · **Open issues**: 2,535 · **Contributors**: 846
+- **Stars**: 12,209 · **Forks**: 2,445 · **Open issues**: 2,535 · **Contributors**: 847
 
 ## Totals (cumulative)
 
-- **Releases**: 288 · **Merged PRs**: 2958 · **Open PRs**: 67 · **Closed issues**: 2403 · **Open issues**: 132 · **Commits**: 7223
+- **Releases**: 288 · **Merged PRs**: 2960 · **Open PRs**: 64 · **Closed issues**: 2403 · **Open issues**: 132 · **Commits**: 7229
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 4 | 18 | 0 | 2 | 0 |
-| last60d | 2026-09-18 | 8 | 24 | 27 | 0 | 11 | 0 |
-| 90d | 2026-08-19 | 8 | 48 | 33 | 4 | 11 | 0 |
-| last180d | 2026-05-21 | 8 | 65 | 48 | 14 | 16 | 0 |
-| 360d | 2025-11-22 | 12 | 95 | 60 | 36 | 28 | 0 |
-| last720d | 2024-11-27 | 28 | 158 | 67 | 111 | 36 | 339 |
+| 30d | 2026-10-20 | 0 | 6 | 15 | 0 | 2 | 9 |
+| last60d | 2026-09-20 | 8 | 26 | 23 | 0 | 11 | 31 |
+| 90d | 2026-08-21 | 8 | 49 | 30 | 4 | 11 | 55 |
+| last180d | 2026-05-23 | 8 | 67 | 45 | 14 | 16 | 77 |
+| 360d | 2025-11-24 | 12 | 96 | 57 | 36 | 28 | 110 |
+| last720d | 2024-11-29 | 28 | 160 | 64 | 110 | 36 | 345 |
 
 ## Release assets
 
@@ -104,4 +104,4 @@ Install metadata for kustomize lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T08:07:53Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T08:25:38Z._
