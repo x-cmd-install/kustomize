@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 12,210 · **Forks**: 2,445 · **Open issues**: 2,535 · **Contributors**: 847
+- **Stars**: 12,210 · **Forks**: 2,446 · **Open issues**: 2,535 · **Contributors**: 847
 
 ## Totals (cumulative)
 
-- **Releases**: 288 · **Merged PRs**: 2960 · **Open PRs**: 67 · **Closed issues**: 2403 · **Open issues**: 132 · **Commits**: 7229
+- **Releases**: 288 · **Merged PRs**: 2960 · **Open PRs**: 68 · **Closed issues**: 2403 · **Open issues**: 132 · **Commits**: 7229
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 0 | 6 | 18 | 0 | 2 | 9 |
-| last60d | 2026-09-21 | 8 | 26 | 26 | 0 | 11 | 31 |
-| 90d | 2026-08-22 | 8 | 49 | 33 | 4 | 11 | 55 |
-| last180d | 2026-05-24 | 8 | 67 | 48 | 14 | 16 | 77 |
-| 360d | 2025-11-25 | 12 | 96 | 60 | 35 | 28 | 110 |
-| last720d | 2024-11-30 | 28 | 160 | 67 | 110 | 36 | 345 |
+| 30d | 2026-10-22 | 0 | 6 | 18 | 0 | 1 | 0 |
+| last60d | 2026-09-22 | 8 | 26 | 26 | 0 | 11 | 0 |
+| 90d | 2026-08-23 | 8 | 49 | 34 | 4 | 11 | 0 |
+| last180d | 2026-05-25 | 8 | 67 | 49 | 13 | 16 | 0 |
+| 360d | 2025-11-26 | 12 | 96 | 61 | 35 | 28 | 0 |
+| last720d | 2024-12-01 | 28 | 160 | 68 | 110 | 36 | 344 |
 
 ## Release assets
 
@@ -104,4 +104,4 @@ Install metadata for kustomize lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T08:31:22Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T08:28:31Z._
