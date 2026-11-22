@@ -47,22 +47,22 @@ x install kustomize
 
 ## 流行度
 
-- **Star**: 12,210 · **Fork**: 2,446 · **开放 issue**: 2,535 · **贡献者**: 847
+- **Star**: 12,210 · **Fork**: 2,449 · **开放 issue**: 2,536 · **贡献者**: 847
 
 ## 累计统计
 
-- **发布数**: 288 · **已合并 PR**: 2960 · **开放 PR**: 68 · **已关闭 issue**: 2403 · **开放 issue**: 132 · **提交数**: 7229
+- **发布数**: 288 · **已合并 PR**: 2960 · **开放 PR**: 71 · **已关闭 issue**: 2403 · **开放 issue**: 133 · **提交数**: 7229
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 0 | 6 | 18 | 0 | 1 | 0 |
-| last60d | 2026-09-22 | 8 | 26 | 26 | 0 | 11 | 0 |
-| 90d | 2026-08-23 | 8 | 49 | 34 | 4 | 11 | 0 |
-| last180d | 2026-05-25 | 8 | 67 | 49 | 13 | 16 | 0 |
-| 360d | 2025-11-26 | 12 | 96 | 61 | 35 | 28 | 0 |
-| last720d | 2024-12-01 | 28 | 160 | 68 | 110 | 36 | 344 |
+| 30d | 2026-10-23 | 0 | 6 | 21 | 0 | 2 | 9 |
+| last60d | 2026-09-23 | 8 | 26 | 28 | 0 | 11 | 31 |
+| 90d | 2026-08-24 | 8 | 49 | 37 | 4 | 12 | 55 |
+| last180d | 2026-05-26 | 8 | 67 | 52 | 13 | 17 | 77 |
+| 360d | 2025-11-27 | 12 | 96 | 64 | 35 | 29 | 110 |
+| last720d | 2024-12-02 | 28 | 160 | 71 | 110 | 37 | 344 |
 
 ## Release 资产
 
@@ -80,7 +80,7 @@ x install kustomize
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/kustomize) 上共有 **119** 个发行版报告此项目。**10** 个 ✅ 已是最新上游版本，**66** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/kustomize) 上共有 **119** 个发行版报告此项目。**14** 个 ✅ 已是最新上游版本，**62** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -89,10 +89,10 @@ x install kustomize
 | Debian 13 | `5.6.0` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `5.8.0` | ⚠️ outdated |
 | Arch | `5.8.3` | ✅ latest |
-| Homebrew | `5.8.3` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Fedora rawhide | `5.8.1` | ⚠️ outdated |
 | Nix unstable | `5.8.3` | ✅ latest |
-| Alpine edge | `5.8.1` | ⚠️ outdated |
+| Alpine edge | `5.8.3` | ✅ latest |
 | openSUSE Tumbleweed | `5.8.3` | ✅ latest |
 
 ## 改进这些数据
@@ -104,4 +104,4 @@ kustomize 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261121.yml` · 2026-11-21T08:28:31Z._
+_数据快照: `data/card/261122.yml` · 2026-11-22T07:01:56Z._
