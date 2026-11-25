@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 12,215 · **Forks**: 2,450 · **Open issues**: 2,537 · **Contributors**: 851
+- **Stars**: 12,218 · **Forks**: 2,450 · **Open issues**: 2,537 · **Contributors**: 851
 
 ## Totals (cumulative)
 
-- **Releases**: 288 · **Merged PRs**: 2960 · **Open PRs**: 71 · **Closed issues**: 2403 · **Open issues**: 134 · **Commits**: 7229
+- **Releases**: 288 · **Merged PRs**: 2960 · **Open PRs**: 72 · **Closed issues**: 2403 · **Open issues**: 134 · **Commits**: 7229
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 6 | 21 | 0 | 3 | 9 |
-| last60d | 2026-09-25 | 8 | 26 | 27 | 0 | 11 | 28 |
-| 90d | 2026-08-26 | 8 | 48 | 37 | 4 | 13 | 54 |
-| last180d | 2026-05-28 | 8 | 67 | 52 | 13 | 18 | 77 |
-| 360d | 2025-11-29 | 12 | 95 | 64 | 32 | 30 | 109 |
-| last720d | 2024-12-04 | 28 | 160 | 70 | 109 | 38 | 344 |
+| 30d | 2026-10-26 | 0 | 6 | 22 | 0 | 3 | 0 |
+| last60d | 2026-09-26 | 8 | 24 | 28 | 0 | 11 | 0 |
+| 90d | 2026-08-27 | 8 | 48 | 38 | 4 | 13 | 0 |
+| last180d | 2026-05-29 | 8 | 67 | 53 | 13 | 18 | 0 |
+| 360d | 2025-11-30 | 12 | 95 | 65 | 31 | 30 | 0 |
+| last720d | 2024-12-05 | 28 | 160 | 71 | 109 | 38 | 344 |
 
 ## Release assets
 
@@ -78,23 +78,6 @@ Lowest-scoring checks:
 | [kustomize_v5.8.3_windows_amd64.zip](https://github.com/kubernetes-sigs/kustomize/releases/download/kustomize/v5.8.3/kustomize_v5.8.3_windows_amd64.zip) | 5.0 MiB | `native/win/x64` |
 | [kustomize_v5.8.3_windows_arm64.zip](https://github.com/kubernetes-sigs/kustomize/releases/download/kustomize/v5.8.3/kustomize_v5.8.3_windows_arm64.zip) | 4.4 MiB | `native/win/arm64` |
 
-## Distribution status
-
-Reported by **119** distros on [repology.org](https://repology.org/project/kustomize). **15** are ✅ on the latest upstream release, **61** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `5.8.1` | ⚠️ outdated |
-| Debian 14 | `5.8.1` | ⚠️ outdated |
-| Debian 13 | `5.6.0` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `5.8.0` | ⚠️ outdated |
-| Arch | `5.8.3` | ✅ latest |
-| Homebrew | `5.8.3` | ✅ latest |
-| Fedora rawhide | `5.8.1` | ⚠️ outdated |
-| Nix unstable | `5.8.3` | ✅ latest |
-| Alpine edge | `5.8.3` | ✅ latest |
-| openSUSE Tumbleweed | `5.8.3` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for kustomize lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `kustomize` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -104,4 +87,4 @@ Install metadata for kustomize lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:16:21Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:44:54Z._
